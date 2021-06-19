@@ -1,1 +1,1 @@
-We are taking sequence of word from user written movie review and find out whether user liked movie or not. We are using sequence to vector RNN here.
+I have use inbuilt imdb dataset from keras. Here, I have taken sequence of word from user written movie review and find out whether user liked movie or not. I have used sequence to vector RNN here. To run code, user just need to run rnn.py.
